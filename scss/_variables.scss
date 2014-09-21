@@ -1,0 +1,82 @@
+$mobile: 320px;
+$smallTablet: 600px;
+$headerSliderBreak:660px;
+$tablet: 700px;
+$largeTablet: 860px;
+$desktop: 960px;
+$fullSizeHeader: 1020px;
+$content_max_width:1280px;
+
+// For About page background
+$about_max_width:1400px;
+
+// Breakpoints according to design
+$designMobile: 640px;
+$designTablet: 768px;
+$designDesktopSmall: 1024px;
+$designDesktop: 1280px;
+
+$lightBoxMaxWidth:1200px;
+$lightBoxMaxHeight:700px;
+$agentBoxMaxWidth:660px;
+$agentBoxMaxHeight:675px;
+
+/* colors */
+$site_background: white;
+$site_header_col: white;
+$site_subHeader_col: grey;
+
+$siteGold: #c69c64;
+$siteBlue: #182045;
+
+$overlayBg: rgba(24,32,69, 0.85);
+$overlayBgFullOpacity: rgba(24,32,69, 1);
+
+$quizRed: #cd5739;
+$quizRedAlpha: rgba(205, 87, 57, 0.8);
+$quizLightBlue:#baffff;
+$quizBlue: #0bb6b6;
+$quizBlueAlpha: rgba(12, 183, 183, 0.2);
+$quizBlueAlphaHover: rgba(12, 183, 183, 0);
+$quizAnswerSelected: #8f3122;
+$quizAnswerSelectedBorder: #ff583d;
+
+$baseCol:#d1a465;
+$xandarCol:#eed16a;
+$knowhereCol:#67427f;
+$moragCol:#928c85;
+
+
+/* fonts */
+$Tahoma: Tahoma,Verdana,Geneva,sans-serif;
+
+$font_family_bold:  $Tahoma;
+$font_family_regular: $Tahoma;
+$font_family_heavy: $Tahoma;
+$font_family_medium: $Tahoma;
+
+
+
+$font_family_exo: 'Exo', $Tahoma;
+$font_family_eurostyle : 'Eurostile-Bol', $Tahoma;
+$eurostyle_letter_spacing:1px;
+
+$landing_subHeader_font_size : 18px;
+$landing_subHeader_font_letter_spacing : 1px;
+
+$landing_box_header_font_size:18px;
+$landing_box_header_line_height:20px;
+$landing_box_header_letter_spacing:1px;
+$mobile_reduce_size:3px;
+
+$landing_p_font_style: 15px;
+$landing_p_font_style_line_height : 20px;
+$landing_p_font_style_letter_spacing : 1px;
+
+/* buttons */
+
+/* Sizes */
+$header-height:80px;
+
+/* animation */
+$parralaxAnimSeconds:0.4s;
